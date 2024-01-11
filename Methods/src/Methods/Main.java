@@ -13,6 +13,9 @@ public class Main {
 
         System.out.println("This is from Calculator class : "+Calculator.addC(4,10));
 
+        Dog dog = new Dog();
+        dog.printSpecies();
+
     }
 
     //EXERCISE 1
@@ -105,6 +108,15 @@ public class Main {
     6. In the main method of the Main class, call the add method from Calculator with two integers as arguments and print the result.
 
      */
+
+
+
+
+
+    // **********************
+
+
+
 
 }
 
