@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/PrimitivesVsObjects/PrimitivesVsObjects.iml" filepath="$PROJECT_DIR$/PrimitivesVsObjects/PrimitivesVsObjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dates/dates.iml" filepath="$PROJECT_DIR$/dates/dates.iml" />
     </modules>
   </component>
 </project>
