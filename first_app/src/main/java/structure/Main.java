@@ -3,16 +3,15 @@ package main.java.structure;
 // LEARNING ABOUT PACKAGES
 
 
-import java.time.LocalDate;
 import bank.BankAccount;
-
 import inventory.Inventory;
 import inventory.Product;
 import inventory.Warehouse;
-
 import university.Course;
-import university.Student;
 import university.Enrollment;
+import university.Student;
+
+import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {

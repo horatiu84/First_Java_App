@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/dates/dates.iml" filepath="$PROJECT_DIR$/dates/dates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopModule/oopModule.iml" filepath="$PROJECT_DIR$/oopModule/oopModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithConstructors/workingWithConstructors.iml" filepath="$PROJECT_DIR$/workingWithConstructors/workingWithConstructors.iml" />
     </modules>
   </component>
 </project>
