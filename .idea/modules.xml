@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/genericsAndCollections/genericsAndCollections.iml" filepath="$PROJECT_DIR$/genericsAndCollections/genericsAndCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/oopModule/oopModule.iml" filepath="$PROJECT_DIR$/oopModule/oopModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readingFiles/readingFiles.iml" filepath="$PROJECT_DIR$/readingFiles/readingFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/workingWithConstructors/workingWithConstructors.iml" filepath="$PROJECT_DIR$/workingWithConstructors/workingWithConstructors.iml" />
     </modules>
   </component>
